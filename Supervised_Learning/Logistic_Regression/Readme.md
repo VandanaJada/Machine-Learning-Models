@@ -18,7 +18,7 @@ Logistic Regression is widely used in various fields such as:
 This directory contains resources and implementations related to Logistic Regression:
 
 - `logistic_regression.ipynb`: A Jupyter notebook demonstrating the implementation of logistic regression, including data preprocessing, model training, evaluation, and visualizations.
-- `data/`: Contains the dataset(s) used for training and evaluating the logistic regression model. Follow the instructions within the directory to access or download the data.
 - `requirements.txt`: Lists all the necessary Python dependencies required to run the logistic regression notebook. Use `pip install -r requirements.txt` to install these dependencies.
+- [Titanic Dataset on Kaggle](https://www.kaggle.com/c/titanic/data): Direct link to the Titanic dataset.
 
 Feel free to explore and utilize these resources for understanding and implementing Logistic Regression.
