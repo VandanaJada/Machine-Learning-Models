@@ -28,4 +28,4 @@ pip install numpy pandas scikit-learn tensorflow pytorch
 Contributions are welcome. Feel free to open a pull request with your model addition.
 
 ## Contact
-For inquiries or networking, connect on [LinkedIn](https://www.linkedin.com/in/vandana-jada-6391a71b1/)https://www.linkedin.com/in/vandana-jada-6391a71b1/).
+For inquiries or networking, connect on [LinkedIn](https://www.linkedin.com/in/vandana-jada-6391a71b1/).
